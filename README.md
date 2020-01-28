@@ -1,6 +1,4 @@
-# Welcome to StackEdit!
-
-Hi! I'm your first Markdown file in *# Housing Resource Server
+# Vision Housing Server
 
 This server demonstrates how one might implement services to return and update data concerning houses and their owners from a housing database.
 - List all house records in the database, returning details for each house.
